@@ -15,7 +15,7 @@ Terminal Command Lines:
 
 Try-Out:
 1. ```python```
-2. ```import cv``` (or import cv2)
-3. ```cv.__version__```
+2. ```import cv2
+3. ```cv2.__version__```
 
 
