@@ -14,8 +14,8 @@ Terminal Command Lines:
 4. ```echo "/usr/local/lib/python2.7/site-packages/" > /Library/Python/2.7/site-packages/opencv.pth```
 
 Try-Out:
-1.```python```
-2.```import cv``` (or import cv2)
-3.```cv.__version__```
+1. ```python```
+2. ```import cv``` (or import cv2)
+3. ```cv.__version__```
 
 
