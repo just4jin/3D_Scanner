@@ -1,5 +1,5 @@
 # 3D Scanner
-Python 3D Scanner for Finger Prints
+Python 3D Scanner for Fingerprints
 
 ## Reference
 
